@@ -18,6 +18,10 @@ Experience the full website here: [Nanoparticles Website](https://luckygoswami.g
 - **Frameworks:** Bootstrap (for potential future responsive design)
 - **Hosting:** GitHub Pages
 
+## Structure
+
+The project structure is as follows:
+
 ```bash
 nanoparticles/
 ├── index.html         # Homepage HTML file
