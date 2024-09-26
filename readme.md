@@ -34,6 +34,7 @@ nanoparticles/
 │   ├── nav.html
 │   ├── footer.html
 ├── assets/            # Folder containing images and other assets
+│   └── icon/
 │   └── clips/
 │   └── scenes/
 │   └── innovations/
